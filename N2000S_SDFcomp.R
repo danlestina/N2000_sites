@@ -16,8 +16,8 @@ library(writexl)
 # 2) Soubory
 # =========================
 
-old_file <- "Czechia_prefill_MSsub4.xlsx"
-new_file <- "Czechia_prefill_commdecis4.xlsx"
+old_file <- "Czechia_prefill_commdecis4.xlsx"
+new_file <- "Czechia_prefill_commdecis5.xlsx"
 
 
 # =========================
